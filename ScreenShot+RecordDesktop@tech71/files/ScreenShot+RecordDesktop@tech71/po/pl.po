@@ -1,0 +1,117 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-04 18:50+0200\n"
+"PO-Revision-Date: 2023-03-15 10:09+0100\n"
+"Last-Translator: Tomek Paruszewski <jurabos@gmail.com>\n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && "
+"(n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: applet.js:28
+msgid "ScreenShot"
+msgstr "Zrzut ekranu"
+
+#: applet.js:33
+msgid "Current Window"
+msgstr "Bieżące okno"
+
+#: applet.js:38
+msgid "Selected Area"
+msgstr "Wybrany obszar"
+
+#: applet.js:44
+msgid "Whole Screen"
+msgstr "Cały ekran"
+
+#: applet.js:46
+msgid "1 Second Delay"
+msgstr "Opóźnienie 1 sek"
+
+#: applet.js:50
+msgid "3 Second Delay"
+msgstr "Opóźnienie 3 sek"
+
+#: applet.js:54
+msgid "5 Second Delay"
+msgstr "Opóźnienie 5 sek"
+
+#: applet.js:61
+msgid "Record Screencast"
+msgstr "Nagraj screencast"
+
+#: applet.js:65
+msgid "Record Desktop With Audio"
+msgstr "Nagraj pulpit z dźwiękiem"
+
+#: applet.js:68 applet.js:74 applet.js:81 applet.js:87
+msgid "Recording"
+msgstr "Nagrywanie"
+
+#: applet.js:68 applet.js:81
+msgid "With-Audio"
+msgstr "Z dźwiękiem"
+
+#: applet.js:71
+msgid "Record Desktop Without Audio"
+msgstr "Nagraj pulpit bez dźwięku"
+
+#: applet.js:74 applet.js:87
+msgid "No-Audio"
+msgstr "Bez dźwięku"
+
+#: applet.js:78
+msgid "Record Current Window With Audio"
+msgstr "Nagraj bieżące okno z dźwiękiem"
+
+#: applet.js:84
+msgid "Record Current Window Without Audio"
+msgstr "Nagraj bieżące okno bez dźwięku"
+
+#: applet.js:91
+msgid "Stop Recording"
+msgstr "Zatrzymaj nagrywanie"
+
+#: applet.js:96
+msgid "Recording-Stopped"
+msgstr "Nagrywanie zatrzymane"
+
+#: applet.js:97
+msgid "Recording-Finished"
+msgstr "Nagrywanie zakończone"
+
+#: applet.js:107
+msgid "Take A Snapshot or Record Your Desktop"
+msgstr "Zrób zrzut swojego pulpitu"
+
+#: applet.js:124
+msgid "Pictures Folder"
+msgstr "Katalog obrazów"
+
+#: applet.js:130
+msgid "Videos Folder"
+msgstr "Katalog nagrań wideo"
+
+#. metadata.json->description
+msgid ""
+"Take A Snapshot Or Record Your Desktop (recording requires the packages "
+"ffmpeg, xdotool & x11-utils to be installed)"
+msgstr ""
+"Zrób zrzut ekranu lub nagraj swój pulpit (nagrywanie wymaga instalacji "
+"pakietów ffmpeg, xdotool & x11-utils)\" - [sudo apt install ffmpeg "
+"xdotool x11-utils]"
+
+#. metadata.json->name
+msgid "ScreenShot+Record Desktop"
+msgstr "Nagraj pulpit bez dźwięku"
